@@ -12,7 +12,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 
 /**
- *
+ * 
  * @author francois
  */
 public class BoiteACoucouPanel extends BorderPane{
